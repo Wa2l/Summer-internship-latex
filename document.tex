@@ -35,7 +35,7 @@
 	%----------------------------------------------------------------------------------------
 	%	TITLE PAGE
 	%----------------------------------------------------------------------------------------
-	
+	\let\cleardoublepage\clearpage
 	\begingroup
 	\thispagestyle{empty}
 	%\AddToShipoutPicture*{\put(6,5){\includegraphics[scale=1]{portal-energy-background}}} % Image background
@@ -52,6 +52,7 @@
 	%	Thanks
 	%----------------------------------------------------------------------------------------
 	\frontmatter
+	
 	\addcontentsline{toc}{chapter}{Remerciements}
 	
 	\begin{center}
@@ -61,15 +62,14 @@
 		\par\normalfont\fontsize{14}{14}\sffamily\selectfont
 		\vspace*{1cm}
 		C’est avec plaisir que je réserve cette page en signe de gratitude et de
-		profonde reconnaissance à tous ceux qui m'ont aidé à réaliser ce projet.Je
-		tiens à remercier le jury pour l’honneur qu’il m'a fait pour avoir accepté
-		de juger mon travail.
-		J'exprimes ma gratitude tout particulièrement à M.Sami Bessaies pour son encadrement, son aide, sa disponibilité, ses conseils fructueux et ses encouragements qu’il m'a prodigué tout au long de ce projet.
-		Finalement, et avec beaucoup de respect, je ne peux laisser cette occasion
-		sans saluer chaleureusement tous mes enseignants de l’ENIT ainsi que
-		mes collègues pour leur soutien moral.\par
+		profonde reconnaissance à tous ceux qui m'ont aidé à réaliser ce projet.Je tiens à remercier le jury pour l’honneur qu’il m'a fait pour avoir accepté de juger mon travail. J'exprimes ma gratitude tout particulièrement à M.Sami Bessaies pour son encadrement, son aide, sa disponibilité, ses conseils fructueux et ses encouragements qu’il m'a prodigué tout au long de ce projet.	Finalement, et avec beaucoup de respect, je ne peux laisser cette occasion sans saluer chaleureusement tous mes enseignants de l’ENIT ainsi que mes collègues pour leur soutien moral.\par
 	\end{center}
 	
+	
+	
+	%----------------------------------------------------------------------------------------
+	%	summary
+	%----------------------------------------------------------------------------------------
 	\newpage
 	\addcontentsline{toc}{chapter}{Résumé}
 	\begin{center}
@@ -78,30 +78,66 @@
 		{\LARGE Résumé}
 		\vspace*{1cm}
 	\end{center}
-	\normalfont
-
+	
 	Le présent rapport décrit les différents taches effectuées tout au long de mon expérience comme stagiaire chez Poulina Group Holding. Durant ce stage de trois mois, j'ai travaillé sur l'application Bware, application développée par Smartdata technology.\\
 	Cette application est un moyen de prévention contre les différents problèmes de santé. L'utilisateur peut surveiller tous les risques qui menacent sa santé. Que ce soit la Pollution, le Pollen, la Grippe, la Varicelle ou la Gastro-entérite, Bware" l'informe continuellement du niveau du risque.\\
 	
-	Le travail demandé consistait à améliorer l'application en rajoutant des fonctionnalités pour les utilisateurs publiques et d'autres pour le suivi et le contrôle de l'application.
-
-		
+	Le travail demandé consistait à améliorer l'application en rajoutant des fonctionnalités pour les utilisateurs publiques et d'autres pour le suivi et le contrôle de l'application.\\
 	
+	\textbf{Mots clés} : Santé, Prévention, épidémie, risque, pollution, REST API, Spring Fraework, Ionic framework.\\
+	
+	
+	%----------------------------------------------------------------------------------------
+	%	glossary
+	%----------------------------------------------------------------------------------------
+
 	\newpage
 	\addcontentsline{toc}{chapter}{Glossaire}
-
+	\vspace*{4cm}	
+	{\LARGE Glossaire}
 	
+	\vspace*{1cm}
+	\begin{flushleft}
+		API Application Programming Interface\\
+		CSS Cascading Style Sheet\\
+		ENIT Ecole Nationale d’Ingénieurs de Tunis\\
+		HTML Hypertext Markup Language\\
+		HTTP HyperText Transfer Protocol\\
+		JSON JavaScript Object Notation\\
+		REST Representational State Transfer\\
+		UML Unified Modeling Langage\\
+		URI Uniform Resource Identifier\\
+	\end{flushleft}
+
 	%----------------------------------------------------------------------------------------
 	%	table of contents
 	%----------------------------------------------------------------------------------------
+	\newpage
+	\let\cleardoublepage\clearpage
+	\addcontentsline{toc}{chapter}{Liste des figures}
+	\renewcommand\listfigurename{Liste des figures}
+	\listoffigures
 	
+	\newpage
+	\let\cleardoublepage\clearpage
+	\addcontentsline{toc}{chapter}{Liste des tableaux}
+	\renewcommand\listtablename{Liste des tableaux} 
+	\listoftables
+		
+	\newpage
+	\let\cleardoublepage\clearpage
+	\addcontentsline{toc}{chapter}{Table des Matières}
 	\renewcommand\contentsname{Table des Matières}
 	\tableofcontents
+	
+	
+
 	
 	%----------------------------------------------------------------------------------------
 	%	chapters
 	%----------------------------------------------------------------------------------------
-	
+	\mainmatter
+	\input{Introduction_générale.tex}
 	
 	
 \end{document}
