@@ -29,7 +29,10 @@
 \usepackage{makeidx} % Required to make an index
 \makeindex % Tells LaTeX to create the files required for indexing
 \usepackage{verbatim}
-
+\usepackage{graphicx}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\usepackage{tabularx}
 %----------------------------------------------------------------------------------------
 
 \begin{document}
@@ -62,8 +65,7 @@
 		Remerciements
 		\par\normalfont\fontsize{14}{14}\sffamily\selectfont
 		\vspace*{1cm}
-		C’est avec plaisir que je réserve cette page en signe de gratitude et de
-		profonde reconnaissance à tous ceux qui m'ont aidé à réaliser ce projet.Je tiens à remercier le jury pour l’honneur qu’il m'a fait pour avoir accepté de juger mon travail. J'exprimes ma gratitude tout particulièrement à M.Sami Bessaies pour son encadrement, son aide, sa disponibilité, ses conseils fructueux et ses encouragements qu’il m'a prodigué tout au long de ce projet.	Finalement, et avec beaucoup de respect, je ne peux laisser cette occasion sans saluer chaleureusement tous mes enseignants de l’ENIT ainsi que mes collègues pour leur soutien moral.\par
+		C’est avec plaisir que Nous réservons cette page en signe de gratitude et de profonde reconnaissance à tous ceux qui nous ont aidé à réaliser ce projet.Nous tenons à remercier le jury pour l’honneur qu’il nous a fait pour avoir accepté de juger notre travail. Nous exprimons notre gratitude tout particulièrement à M.Sami Bessaies pour son encadrement, son aide, sa disponibilité, ses conseils fructueux et ses encouragements qu’il nous a prodigué tout au long de ce projet.	Finalement, et avec beaucoup de respect, nous ne pouvons laisser cette occasion sans saluer chaleureusement tous nos enseignants de l’ENIT ainsi que nos collègues pour leur soutien moral.\par
 	\end{center}
 	
 	
@@ -80,7 +82,7 @@
 		\vspace*{1cm}
 	\end{center}
 	
-	Le présent rapport décrit les différents taches effectuées tout au long de mon expérience comme stagiaire chez Poulina Group Holding. Durant ce stage de trois mois, j'ai travaillé sur l'application Bware, application développée par Smartdata technology.\\
+	Le présent rapport décrit les différents taches effectuées tout au long de notre expérience comme stagiaire chez Poulina Group Holding. Durant ce stage de trois mois, Nous avons travaillé sur l'application Bware, application développée par Smartdata technology.\\
 	Cette application est un moyen de prévention contre les différents problèmes de santé. L'utilisateur peut surveiller tous les risques qui menacent sa santé. Que ce soit la Pollution, le Pollen, la Grippe, la Varicelle ou la Gastro-entérite, Bware" l'informe continuellement du niveau du risque.\\
 	
 	Le travail demandé consistait à améliorer l'application en rajoutant des fonctionnalités pour les utilisateurs publiques et d'autres pour le suivi et le contrôle de l'application.\\
@@ -140,5 +142,5 @@
 	\mainmatter
 	\input{Introduction_générale.tex}
 	\input{Presentation_du_projet.tex}
-	
+	\input{Analyse_specification_besoins.tex}
 \end{document}

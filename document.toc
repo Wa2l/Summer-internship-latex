@@ -31,3 +31,27 @@
 \contentsline {subsection}{\numberline {1.2.1}Analyse de l'existant}{3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}Critique de l'existant}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Solution propos\IeC {\'e}e}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}M\IeC {\'e}thodologie de travail}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}M\IeC {\'e}thode Scrum}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Analyse et sp\IeC {\'e}cification des besoins}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Analyse des besoins}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Identification des acteurs}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Besoins fonctionnels}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Besoins non fonctionnels}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Sp\IeC {\'e}cification des besoins}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Diagramme de cas d'utilisation global}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Raffinement des cas d'utilisation}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.1}Cas d'utilisation : Ajouter astuces}{7}
