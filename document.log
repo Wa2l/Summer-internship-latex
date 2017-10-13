@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.17)  19 SEP 2017 22:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.17)  12 OCT 2017 07:01
 entering extended mode
 **./document.tex
 (document.tex
@@ -793,19 +793,19 @@ Package biblatex Warning: Missing 'hyperref' package.
 (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 39.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -873,7 +873,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \big@size=\dimen126
-LaTeX Info: Redefining \microtypecontext on input line 38.
+LaTeX Info: Redefining \microtypecontext on input line 39.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -895,9 +895,32 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
  (document.bbl)
-Package biblatex Info: Reference section=0 on input line 38.
-Package biblatex Info: Reference segment=0 on input line 38.
-LaTeX Font Info:    Try loading font information for T1+pag on input line 49.
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
+
+<figures/enit.png, id=1, 396.48125pt x 415.5525pt>
+File: figures/enit.png Graphic file (type png)
+ <use figures/enit.png>
+Package pdftex.def Info: figures/enit.png used on input line 56.
+(pdftex.def)             Requested size: 85.35826pt x 89.46251pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 61.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 65.
+
+<figures/poulina.png, id=2, 266.49562pt x 57.21375pt>
+File: figures/poulina.png Graphic file (type png)
+
+<use figures/poulina.png>
+Package pdftex.def Info: figures/poulina.png used on input line 75.
+(pdftex.def)             Requested size: 227.62204pt x 48.86935pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/enit.png> <./fi
+gures/poulina.png>]
+LaTeX Font Info:    Try loading font information for T1+pag on input line 98.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pag.fd"
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
@@ -908,34 +931,30 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1
-
 ]
-Overfull \hbox (1.70615pt too wide) in paragraph at lines 85--87
+Overfull \hbox (1.70615pt too wide) in paragraph at lines 119--121
 \T1/ptm/m/n/10.95 (-20) Cette ap-pli-ca-tion est un moyen de préven-tion con-tr
 e les dif-férents prob-lèmes de santé. L'utilisateur
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 90.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 [2] [3]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 122.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 156.
  (document.lof
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 7.
 
@@ -987,16 +1006,22 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 [5
 
-] (document.toc)
+] (document.toc [6
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 117.
+)
 \tf@toc=\write8
 \openout8 = `document.toc'.
 
- [6
-
-] (Introduction_gÃ©nÃ©rale.tex
+ [7] (chapters/Introduction_gÃ©nÃ©rale.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
+
+
+LaTeX Warning: Citation '1' on page 1 undefined on input line 6.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
@@ -1014,21 +1039,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-) (Presentation_du_projet.tex [1
+) (chapters/Presentation_du_projet.tex [1
 
 
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
@@ -1057,18 +1078,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-) (Analyse_specification_besoins.tex [4]
+
+LaTeX Warning: Citation '2' on page 4 undefined on input line 65.
+
+) (chapters/Analyse_specification_besoins.tex [4]
 Chapter 2.
 [5
 
-] <figures/globalusecase.png, id=44, 351.56343pt x 474.27188pt>
+] <figures/globalusecase.png, id=50, 351.56343pt x 474.27188pt>
 File: figures/globalusecase.png Graphic file (type png)
 
 <use figures/globalusecase.png>
 Package pdftex.def Info: figures/globalusecase.png used on input line 62.
 (pdftex.def)             Requested size: 202.01474pt x 272.52328pt.
  [6 <./figures/globalusecase.png>]
-<figures/uc_ajoutastuce.png, id=51, 657.95813pt x 321.45094pt>
+<figures/uc_ajoutastuce.png, id=56, 657.95813pt x 321.45094pt>
 File: figures/uc_ajoutastuce.png Graphic file (type png)
 
 <use figures/uc_ajoutastuce.png>
@@ -1084,30 +1108,431 @@ Overfull \hbox (8.12813pt too wide) in paragraph at lines 89--106
  [] 
  []
 
-)
-Underfull \vbox (badness 3514) has occurred while \output is active []
 
- [7 <./figures/uc_ajoutastuce.png>] [8] (document.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+<figures/uc_visualisationrisques.png, id=57, 752.8125pt x 305.64188pt>
+File: figures/uc_visualisationrisques.png Graphic file (type png)
+
+<use figures/uc_visualisationrisques.png>
+Package pdftex.def Info: figures/uc_visualisationrisques.png used on input line
+ 114.
+(pdftex.def)             Requested size: 431.57098pt x 175.22037pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 114--115
+ [] 
+ []
+
+[7 <./figures/uc_ajoutastuce.png>]
+Overfull \hbox (8.12813pt too wide) in paragraph at lines 123--142
+ [] 
+ []
+
+) (chapters/conception.tex [8 <./figures/uc_visualisationrisques.png>]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+<figures/arch.png, id=66, 757.32938pt x 385.44pt>
+File: figures/arch.png Graphic file (type png)
+ <use figures/arch.png>
+Package pdftex.def Info: figures/arch.png used on input line 12.
+(pdftex.def)             Requested size: 379.68573pt x 193.24297pt.
+
+[9
+
+ <./figures/arch.png>]
+<figures/liaison.png, id=71, 100.12407pt x 238.64156pt>
+File: figures/liaison.png Graphic file (type png)
+
+<use figures/liaison.png>
+Package pdftex.def Info: figures/liaison.png used on input line 22.
+(pdftex.def)             Requested size: 100.12381pt x 238.64096pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+[10 <./figures/liaison.png>]
+<figures/pckg1.png, id=75, 323.70938pt x 190.46156pt>
+File: figures/pckg1.png Graphic file (type png)
+ <use figures/pckg1.png>
+Package pdftex.def Info: figures/pckg1.png used on input line 73.
+(pdftex.def)             Requested size: 431.57098pt x 253.9384pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 73--74
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11] <figures/pckg2.png, id=81, 381.67593pt x 365.86688pt>
+File: figures/pckg2.png Graphic file (type png)
+
+<use figures/pckg2.png>
+Package pdftex.def Info: figures/pckg2.png used on input line 89.
+(pdftex.def)             Requested size: 431.57098pt x 413.71506pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 89--90
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./figures/pckg1.png>]
+<figures/pckg3.png, id=86, 513.41812pt x 365.11406pt>
+File: figures/pckg3.png Graphic file (type png)
+ <use figures/pckg3.png>
+Package pdftex.def Info: figures/pckg3.png used on input line 101.
+(pdftex.def)             Requested size: 431.57098pt x 306.91098pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 101--102
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./figures/pckg2.png>]
+<figures/pckg4.png, id=91, 366.61969pt x 177.66376pt>
+File: figures/pckg4.png Graphic file (type png)
+ <use figures/pckg4.png>
+Package pdftex.def Info: figures/pckg4.png used on input line 114.
+(pdftex.def)             Requested size: 431.57098pt x 209.15073pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 114--115
+ [] 
+ []
+
+<figures/pckg5.png, id=92, 493.0922pt x 219.82124pt>
+File: figures/pckg5.png Graphic file (type png)
+ <use figures/pckg5.png>
+Package pdftex.def Info: figures/pckg5.png used on input line 125.
+(pdftex.def)             Requested size: 431.57098pt x 192.40347pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 125--126
+ [] 
+ []
+
+[14 <./figures/pckg3.png> <./figures/pckg4.png>]
+<figures/ds1.png, id=98, 390.70969pt x 756.57657pt>
+File: figures/ds1.png Graphic file (type png)
+ <use figures/ds1.png>
+Package pdftex.def Info: figures/ds1.png used on input line 141.
+(pdftex.def)             Requested size: 348.23727pt x 674.33032pt.
+
+
+LaTeX Warning: Float too large for page by 37.97058pt on input line 145.
+
+[15 <./figures/pckg5.png>] [16 <./figures/ds1.png>]
+<figures/sd2.png, id=107, 681.29532pt x 377.91188pt>
+File: figures/sd2.png Graphic file (type png)
+ <use figures/sd2.png>
+Package pdftex.def Info: figures/sd2.png used on input line 179.
+(pdftex.def)             Requested size: 431.57098pt x 239.39473pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 179--180
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./figures/sd2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+<figures/ad1.png, id=113, 511.15968pt x 439.6425pt>
+File: figures/ad1.png Graphic file (type png)
+ <use figures/ad1.png>
+Package pdftex.def Info: figures/ad1.png used on input line 196.
+(pdftex.def)             Requested size: 431.57098pt x 371.18893pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 196--197
+ [] 
+ []
+
+[18 <./figures/ad1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+<figures/dep.png, id=118, 779.16093pt x 398.23781pt>
+File: figures/dep.png Graphic file (type png)
+ <use figures/dep.png>
+Package pdftex.def Info: figures/dep.png used on input line 217.
+(pdftex.def)             Requested size: 424.83139pt x 217.13556pt.
+
+Overfull \hbox (9.42096pt too wide) in paragraph at lines 217--218
+ [] 
+ []
+
+) (chapters/realisation.tex [19 <./figures/dep.png>]
+Chapter 4.
+[20
+
+] <figures/archi.png, id=126, 480.29437pt x 172.39406pt>
+File: figures/archi.png Graphic file (type png)
+
+<use figures/archi.png>
+Package pdftex.def Info: figures/archi.png used on input line 57.
+(pdftex.def)             Requested size: 431.57098pt x 154.90857pt.
+
+Overfull \hbox (16.16055pt too wide) in paragraph at lines 57--58
+ [] 
+ []
+
+[21 <./figures/archi.png>]
+
+LaTeX Warning: Citation '3' on page 22 undefined on input line 70.
+
+
+LaTeX Warning: Citation '6' on page 22 undefined on input line 74.
+
+
+LaTeX Warning: Citation '4' on page 22 undefined on input line 76.
+
+
+Overfull \hbox (0.58943pt too wide) in paragraph at lines 82--83
+[]\T1/ptm/b/n/10.95 ServicesWeb REST \T1/ptm/m/n/10.95 (-20) : Ex-posent en-tiè
+re-ment les ser-vices comme un en-sem-ble de ressources
+ []
+
+[22] <figures/batch_app.png, id=133, 323.2075pt x 339.2675pt>
+File: figures/batch_app.png Graphic file (type png)
+
+<use figures/batch_app.png>
+Package pdftex.def Info: figures/batch_app.png used on input line 93.
+(pdftex.def)             Requested size: 121.97679pt x 128.0374pt.
+
+<figures/Capture1.png, id=134, 246.1697pt x 163.3603pt>
+File: figures/Capture1.png Graphic file (type png)
+
+<use figures/Capture1.png>
+Package pdftex.def Info: figures/Capture1.png used on input line 110.
+(pdftex.def)             Requested size: 199.16928pt x 132.17653pt.
+ [23 <./figures/batch_app.png (PNG copy)> <./figures/Capture1.png>] <figures/gp
+s.png, id=140, 248.42813pt x 437.38406pt>
+File: figures/gps.png Graphic file (type png)
+
+<use figures/gps.png>
+Package pdftex.def Info: figures/gps.png used on input line 120.
+(pdftex.def)             Requested size: 149.37697pt x 262.99974pt.
+
+<figures/choix_ville.png, id=141, 252.19218pt x 441.90094pt>
+File: figures/choix_ville.png Graphic file (type png)
+
+<use figures/choix_ville.png>
+Package pdftex.def Info: figures/choix_ville.png used on input line 121.
+(pdftex.def)             Requested size: 142.26378pt x 249.2834pt.
+
+<figures/dash_board.png, id=142, 248.42813pt x 437.38406pt>
+File: figures/dash_board.png Graphic file (type png)
+
+<use figures/dash_board.png>
+Package pdftex.def Info: figures/dash_board.png used on input line 131.
+(pdftex.def)             Requested size: 130.88284pt x 230.4376pt.
+ [24 <./figures/gps.png> <./figures/choix_ville.png> <./figures/dash_board.png>
+]
+<figures/detail_risk.png, id=149, 249.18094pt x 438.13687pt>
+File: figures/detail_risk.png Graphic file (type png)
+
+<use figures/detail_risk.png>
+Package pdftex.def Info: figures/detail_risk.png used on input line 141.
+(pdftex.def)             Requested size: 142.26378pt x 250.1484pt.
+
+<figures/pense_bete.png, id=150, 240.9pt x 112.92188pt>
+File: figures/pense_bete.png Graphic file (type png)
+
+<use figures/pense_bete.png>
+Package pdftex.def Info: figures/pense_bete.png used on input line 151.
+(pdftex.def)             Requested size: 199.16928pt x 93.36328pt.
+
+<figures/ajout_trick.png, id=151, 248.42813pt x 438.8897pt>
+File: figures/ajout_trick.png Graphic file (type png)
+
+<use figures/ajout_trick.png>
+Package pdftex.def Info: figures/ajout_trick.png used on input line 161.
+(pdftex.def)             Requested size: 128.846pt x 227.62204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25 <./figures/detail_risk.png> <./figures/pense_bete.png>]
+<figures/rappel_trick.png, id=157, 1084.05pt x 1927.2pt>
+File: figures/rappel_trick.png Graphic file (type png)
+
+<use figures/rappel_trick.png>
+Package pdftex.def Info: figures/rappel_trick.png used on input line 175.
+(pdftex.def)             Requested size: 128.02927pt x 227.62204pt.
+ [26 <./figures/ajout_trick.png> <./figures/rappel_trick.png>] <figures/subscri
+be.png, id=162, 248.42813pt x 438.8897pt>
+File: figures/subscribe.png Graphic file (type png)
+
+<use figures/subscribe.png>
+Package pdftex.def Info: figures/subscribe.png used on input line 190.
+(pdftex.def)             Requested size: 112.73929pt x 199.16928pt.
+
+<figures/station.png, id=163, 236.38312pt x 417.05812pt>
+File: figures/station.png Graphic file (type png)
+
+<use figures/station.png>
+Package pdftex.def Info: figures/station.png used on input line 199.
+(pdftex.def)             Requested size: 112.8891pt x 199.16928pt.
+ [27 <./figures/subscribe.png> <./figures/station.png>] <figures/admin.png, id=
+169, 1013.28563pt x 502.87875pt>
+File: figures/admin.png Graphic file (type png)
+
+<use figures/admin.png>
+Package pdftex.def Info: figures/admin.png used on input line 219.
+(pdftex.def)             Requested size: 401.31802pt x 199.16928pt.
+
+<figures/notif.png, id=170, 1028.34187pt x 408.02437pt>
+File: figures/notif.png Graphic file (type png)
+
+<use figures/notif.png>
+Package pdftex.def Info: figures/notif.png used on input line 229.
+(pdftex.def)             Requested size: 394.39865pt x 156.49014pt.
+ [28 <./figures/admin.png> <./figures/notif.png>]
+Overfull \hbox (14.88506pt too wide) in paragraph at lines 241--242
+[]\T1/ptm/m/n/10.95 (-20) Préparer l'application à être exé-cuté dans le nou-ve
+l en-vi-ron-nement (Vari-ables d'environnement,
+ []
+
+[29]
+Overfull \hbox (16.32333pt too wide) in paragraph at lines 281--282
+[]\T1/ptm/m/n/10.95 (-20) jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA
+1 -keystore release-key.keystore
+ []
+
+) (chapters/Conclusion_generale.tex [30]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+) (biblio.tex [31
+
+]) (annexes/annexes.tex [32
+
+] [33
+
+] [34] (annexes/annexe1.tex
+
+LaTeX Warning: Citation '7' on page 35 undefined on input line 15.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Overfull \hbox (4.47534pt too wide) in paragraph at lines 42--58
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+<figures/object.png, id=199, 450.18187pt x 85.06781pt>
+File: figures/object.png Graphic file (type png)
+
+<use figures/object.png>
+Package pdftex.def Info: figures/object.png used on input line 77.
+(pdftex.def)             Requested size: 418.25542pt x 79.03825pt.
+ <figures/array.png, id=200, 450.18187pt x 85.06781pt>
+File: figures/array.png Graphic file (type png)
+
+<use figures/array.png>
+Package pdftex.def Info: figures/array.png used on input line 78.
+(pdftex.def)             Requested size: 418.25542pt x 79.03825pt.
+
+Overfull \hbox (2.84499pt too wide) in paragraph at lines 77--79
+ [] 
+ []
+
+
+Overfull \hbox (2.84499pt too wide) in paragraph at lines 77--79
+ [] 
+ []
+
+[36 <./figures/object.png> <./figures/array.png>]
+<figures/param.png, id=206, 541.27219pt x 92.59593pt>
+File: figures/param.png Graphic file (type png)
+ <use figures/param.png>
+Package pdftex.def Info: figures/param.png used on input line 90.
+(pdftex.def)             Requested size: 398.33858pt x 68.14548pt.
+
+<figures/reponse.png, id=207, 201.75375pt x 235.63031pt>
+File: figures/reponse.png Graphic file (type png)
+
+<use figures/reponse.png>
+Package pdftex.def Info: figures/reponse.png used on input line 100.
+(pdftex.def)             Requested size: 170.71652pt x 199.38425pt.
+)) [37 <./figures/param.png> <./figures/reponse.png>]
+(document.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                document
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11275 strings out of 493333
- 186798 string characters out of 3139197
- 653530 words of memory out of 3000000
- 14504 multiletter control sequences out of 15000+200000
- 60596 words of font info for 136 fonts, out of 3000000 for 9000
+ 11713 strings out of 493333
+ 194629 string characters out of 3139197
+ 655948 words of memory out of 3000000
+ 14847 multiletter control sequences out of 15000+200000
+ 64231 words of font info for 164 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,11n,38p,1135b,698s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,12n,38p,1135b,1188s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
 rw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on document.pdf (15 pages, 199139 bytes).
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (45 pages, 1692294 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 236 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23563 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 27307 words of extra memory for PDF output out of 29859 (max. 10000000)
 

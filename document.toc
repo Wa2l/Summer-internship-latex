@@ -55,3 +55,75 @@
 \contentsline {subsection}{\numberline {2.2.2}Raffinement des cas d'utilisation}{7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.2.2.1}Cas d'utilisation : Ajouter astuces}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.2}Cas d'utilisation : visualisation des niveaux des risques}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Conception}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Conception globale}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Partie Backend}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Partie Frontend}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Conception d\IeC {\'e}taill\IeC {\'e}e}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Diagramme de paquetage}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Diagramme de classes}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.1}Diagramme de classes relatif au paquet : Utilisateur}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.2}Diagramme de classes relatif au paquet : Niveau des risques}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.3}Diagramme de classes relatif au paquet : Objet Netatmo}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.4}Diagramme de classes relatif au paquet : Historique des notifications}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Digrammes de s\IeC {\'e}quence}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.1}Diagramme de s\IeC {\'e}quence "Ajouter astuce"}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.2}Diagramme de s\IeC {\'e}quence "T\IeC {\'e}l\IeC {\'e}charger Rapport XLS"}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.4}Diagramme d'activit\IeC {\'e}}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.5}Diagramme de d\IeC {\'e}ploiement}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}R\IeC {\'e}alisation}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Environnement de travail}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Environnement physique}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Environnement logiciel}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Choix technologiques}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Sc\IeC {\'e}narios d'ex\IeC {\'e}cution}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Partie: Utilisateur}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Partie: Administrateur}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}D\IeC {\'e}ploiement et publication de l'application}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}D\IeC {\'e}ploiement de la partie serveur}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Publication de l'application dans le play store}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Bibliographie}{32}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Annexes}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Annexe 1}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Caract\IeC {\'e}ristiques}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}M\IeC {\'e}thodes du HTTP}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Format de donn\IeC {\'e}es}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Exemple}{37}

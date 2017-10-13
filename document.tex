@@ -33,6 +33,7 @@
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \usepackage{tabularx}
+\newcommand{\source}[1]{\caption*{Source: {#1}} }
 %----------------------------------------------------------------------------------------
 
 \begin{document}
@@ -45,11 +46,44 @@
 	%\AddToShipoutPicture*{\put(6,5){\includegraphics[scale=1]{portal-energy-background}}} % Image background
 	
 	\centering
-	\vspace*{9cm}
-	\par\normalfont\fontsize{35}{35}\sffamily\selectfont
-	Title\par % Book title
+
+	\par République Tunisienne\\
+	Ministère de l'enseignement supérieur\\
+	et de la recherche scientifique\\
+	Université de Tunis ElManar\par 
+	\begin{figure}[!h]
+		\begin{center}
+			\includegraphics[width=3cm]{figures/enit}
+		\end{center}
+	\end{figure}
+\textbf{	Département des Technologies de l’Information et de la Communication\\}
+	\vspace{1cm}
+	\textbf{{\Large Rapport de stage d’ingénieur\\}}
+	Groupe: 3ème année Télécommunications\\
 	\vspace*{1cm}
-	{\Huge Wael ARFAOUI}\par % Author name
+	\textbf{{\LARGE Développement Fullstack en Spring et Ionic\\
+	Amélioration de l'application Bware\\}}
+	\vspace{1cm}
+	Réalisé par:\\
+	\vspace{0.5cm}
+	{\Large Wael ARFAOUI}\\
+	\vspace{1cm}
+	Entreprise: \textbf{Poulina Group Holding}
+	
+	\begin{figure}[!h]
+		\begin{center}
+			\includegraphics[width=8cm]{figures/poulina}
+		\end{center}
+	\end{figure}
+
+	Encadré par:\\
+	\vspace{0.5cm}
+	{\Large Sami BESSAIES\\}
+	\vspace{1cm}
+	Année Universitaire : 2017-2018
+	\par
+	
+	
 	\endgroup
 	
 	%----------------------------------------------------------------------------------------
@@ -140,7 +174,13 @@
 	%	chapters
 	%----------------------------------------------------------------------------------------
 	\mainmatter
-	\input{Introduction_générale.tex}
-	\input{Presentation_du_projet.tex}
-	\input{Analyse_specification_besoins.tex}
+	\input{chapters/Introduction_générale.tex}
+	\input{chapters/Presentation_du_projet.tex}
+	\input{chapters/Analyse_specification_besoins.tex}
+	\input{chapters/conception.tex}
+	\input{chapters/realisation.tex}
+	\input{chapters/Conclusion_generale.tex}
+	\input{./biblio.tex}
+	\addcontentsline{toc}{part}{Bibliographie}
+	\input{annexes/annexes}
 \end{document}

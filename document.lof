@@ -7,3 +7,63 @@
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramme des cas d'utilisation global}}{6}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Cas d'utilisation : Ajouter des astuces}}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Cas d'utilisation : visualisation des niveaux des risques}}{8}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Architecture globale de l'application}}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Architecture global de la couche Web}}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Diagramme de paquetage}}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Diagramme de classes relatif au paquet : Utilisateur}}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Diagramme de classes relatif au paquet : Niveau des risques}}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagramme de classes relatif au paquet : Objet Netatmo}}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagramme de classes relatif au paquet : Historique des notifications}}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Diagramme de s\IeC {\'e}quence "Ajouter astuce"}}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Diagramme de s\IeC {\'e}quence "T\IeC {\'e}l\IeC {\'e}charger Rapport XLS"}}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagramme d'activit\IeC {\'e} du cas d'utilisation " Ajouter astuce "}}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagramme de d\IeC {\'e}ploiement}}{19}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Technologies utilis\IeC {\'e}es}}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Relation entre l'application serveur et les applications Batch}}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces R\IeC {\'e}cup\IeC {\'e}ration des donn\IeC {\'e}es}}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Indication de la ville : Par Service GPS / Par recherche}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Consultation des niveaux des risques}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Consultation des d\IeC {\'e}tails et des conseils relatives \IeC {\`a} la pollution}}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Section: Pense B\IeC {\^e}te}}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Popup: Ajout d'astuces}}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Choix des astuces "Pique des niveaux des risques"}}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Interface Configuration}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Interface Carte des risques}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Interface Administration}}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Interface Notification personnalis\IeC {\'e}e}}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Structures de donn\IeC {\'e}es JSON}}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Param\IeC {\`e}tres d'une requ\IeC {\^e}te}}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces R\IeC {\'e}ponse du serveur}}{37}

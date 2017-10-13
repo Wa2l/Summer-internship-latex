@@ -105,7 +105,41 @@ Ci-dessous une description sous forme de tableau du cas d'utilisation : Ajouter 
 		\end{tabular}
 	\end{center}
 \end{table}
+ 
+\subsubsection{Cas d'utilisation : visualisation des niveaux des risques}
+\qquad Cette partie est consacrée au raffinement du cas d'utilisation : visualisation des niveaux des risques. La figure \ref{fig2.3} représente en détail le cas d'utilisation avec son acteur et ses pré-conditions.\\
 
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[width=0.64\textheight]{figures/uc_visualisationrisques}
+	\end{center}
+	\caption{Cas d'utilisation :  visualisation des niveaux des risques}
+	\label{fig2.3}
+\end{figure}
+Le tableau ci-après est une description textuelle du cas d'utilisation.
+\begin{table}[!h]
+	\caption{Description textuelle du cas d'utilisation : visualiser les niveaux des risques}
+	\begin{center}
+		\begin{tabular}{|L{4cm}|L{10cm}|}
+			\hline
+			\textbf{Cas d’utilisation} & visualiser les niveaux des risques\\
+			\hline
+			\textbf{Objectif} & Permettre de consulter les niveaux des risques\\
+			\hline
+			\textbf{Acteur} & Utilisateur\\
+			\hline
+			\textbf{Pré-conditions} & S'inscrire, saisir ville, activer la géolocalisation, se connecter à Internet\\
+			\hline
+			\textbf{Post-condition} & Niveaux des risques consultés \\
+			\hline			
+			\textbf{Scénarios nominaux} & \textbf{S1. Consulter le niveau des risques} L'utilisateur se connecte à internet et fournit la ville qu'il veut consulter en saisissant la ville ou en activant le système GPS. Il recevra ainsi le niveaux de risques de la ville souhaitée.\\
+			&\textbf{S2} Après avoir reçu les niveaux de risque, l'utilisateur peut consulter les détails sur chaque risque (polluant)\\
+			\hline
+			\textbf{Exceptions} & \textbf{E1} Utilisateur non inscrit au risque.\\ &\textbf{E2} Téléphone non connecté à Internet\\
+			&\textbf{E3} Ville non fourni et système GPS non activé\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}
 \section*{Conclusion}
-
 \qquad Nous avons consacré ce chapitre, à la spécification des besoins, ce qui permet de mieux comprendre les problématiques soulevées et d’avoir une vue globale sur les fonctionnalités constituantes notre projet. Nous nous intéressons dans le chapitre suivant aux éléments de conception basée sur le travail effectué dans le présent chapitre.
